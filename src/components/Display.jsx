@@ -1,5 +1,5 @@
-import React from 'react';
-import './Display.css';
+
+import './display.css';
 
 const Display = ({ count }) => {
   return (
